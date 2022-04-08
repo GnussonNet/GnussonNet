@@ -6,7 +6,7 @@
   <h3 align="center">Welcome to my Github profile</h3>
 
   <p align="center">
-    I'm Filip "Gnusson" Magnusson, a self-taught web developer based in Sweden.
+    My name is Filip "Gnusson" Magnusson, a self-taught web developer based in Gothenburg, Sweden.
     <br />
     <a href="https://github.com/GnussonNet"><strong>Explore my projects»</strong></a>
   </p>
