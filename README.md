@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/GnussonNet">
-  <img src="https://github.com/GnussonNet/dockerized-webserver/blob/main/.github/logo.svg" alt="logo" width="120" height="120">
+  <img src="https://github.com/GnussonNet/dockerized-webserver/blob/main/.github/logo.svg" alt="logo" width="200" height="200">
   </a>
   
   <h3 align="center">Welcome to my Github profile <img src="assets/wave.gif" width="20px" /></h3>
