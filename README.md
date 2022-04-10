@@ -8,4 +8,6 @@
   <p align="center">
 	  <strong>My name is Filip "Gnusson" Magnusson, a self-taught web developer based in Gothenburg, Sweden.</strong>
 	  <br />
+	  <br />
+	  <a href="https://github.com/GnussonNet">Explore my projects»</a>
   </p>
